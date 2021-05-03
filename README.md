@@ -3,11 +3,11 @@
 ### Nama  : Awong Osakethi
 ### NIM   : 311910499
 ### Kelas : TI.19.A2
-# --------------------------------------------------------------------------
-### Mockup Template
+# -----------------------------------------------------------------------------
+### A. Mockup Template
 ![Screenshot (68)](https://user-images.githubusercontent.com/56240483/116903295-65d48400-ac66-11eb-9655-f0a2a5cb8c18.png)
 
-### Hasil Jadi
+### B. Hasil Jadi
 - Tampilan Home Page
 ![Screenshot (65)](https://user-images.githubusercontent.com/56240483/116902681-a253b000-ac65-11eb-9125-8d05ef50ccf7.png)
 - Tampilan About 
